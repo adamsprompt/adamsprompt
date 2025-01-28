@@ -1,4 +1,4 @@
-<h1>Adam S. Ford - [ THIS PAGE UNDER CONSTRUCTION ] <br/><a href="https://www.linkedin.com/in/adam-spach-ford">Cyber Security Analyst, GRC Specialist, Prompt Engineer,</a> <br/> <a href="https://github.com/adamsprompt">and AI Agentry Specialist</a></h1>
+<h1>Adam S. Ford - <i>THIS PAGE UNDER CONSTRUCTION</i> <br/><a href="https://www.linkedin.com/in/adam-spach-ford">Cyber Security Analyst, GRC Specialist, Prompt Engineer,</a> <br/> <a href="https://github.com/adamsprompt">and AI Agentry Specialist</a></h1>
 
 <h2> Cybersecurity Projects:</h2>
 
