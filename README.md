@@ -2,9 +2,10 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-- <b>  Build a Real-Time Intrusion Detection System (IDS) - Utilize Python and Open Source Libraries - Credit: https://github.com/jatin009v  </b>
-  - [ 2nd Name of Project A such as - Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
+- <b>  Build a Real-Time Intrusion Detection System (IDS) - Utilize Python and Open Source Libraries</b>
+  - [ Build a Real-Time IDS - Practice with Python and Open-Source Libraries](https://github.com/joshmadakor1/Algorithms-Practice)
+    - Credit: https://github.com/jatin009v
+        
 <h2> Governance, Risk, and Compliance (GRC) Projects:</h2>
 
 - <b>  Name of Project A  </b>
