@@ -28,6 +28,13 @@
 - <b>  Name of Project B  </b>
   - [ 2nd Name of Project B such as - Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
+<h2> Certifications:</h2>
+
+- <b>  CompTIA Sec+</b>
+  - Issued August 2024 - Expires August 2027
+  - Credential ID: COMP001022613359
+  - [Certification Link:](https://www.credly.com/badges/4b9859b2-7a1f-4d88-b94c-00b2e7497bb9/linked_in_profile)
+
 <h2> Popular YouTube Videos</h2>
 
 - <b>  [Name of YouTube video A](https://www.youtube.com/watch?v=a83ASGn_V_s)
