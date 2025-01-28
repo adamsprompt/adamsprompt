@@ -1,4 +1,4 @@
-<h1>Adam S. Ford - This Page Under Construction <br/><a href="https://www.linkedin.com/in/adam-spach-ford">Cyber Security Analyst, GRC Specialist, Prompt Engineer,</a> <br/> <a href="https://github.com/adamsprompt">and AI Agentry Specialist</a></h1>
+<h1>Adam S. Ford - [ THIS PAGE UNDER CONSTRUCTION ] <br/><a href="https://www.linkedin.com/in/adam-spach-ford">Cyber Security Analyst, GRC Specialist, Prompt Engineer,</a> <br/> <a href="https://github.com/adamsprompt">and AI Agentry Specialist</a></h1>
 
 <h2> Cybersecurity Projects:</h2>
 
@@ -77,8 +77,11 @@
 
 <h2> Connect with me:</h2>
 
-- [linkedin]
+- [Instagram]
+[<img align="left" width="22px" src="www.instagram.com/adamsford_working/" />][Instagram]
+- [LinkedIn]
 [<img align="left" width="22px" src="www.linkedin.com/in/adam-spach-ford" />][LinkedIn]
+
 
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
