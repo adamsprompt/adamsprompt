@@ -28,7 +28,16 @@
 - <b>  Name of Project B  </b>
   - [ 2nd Name of Project B such as - Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
+<h2> Popular YouTube Videos</h2>
+
+- <b>  [Name of YouTube video A](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- <b>  [Name of YouTube video B](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
 <h2> Connect with me:</h2>
+
+- [linkedin]
+[<img align="left" width="22px" src="www.linkedin.com/in/adam-spach-ford" />][LinkedIn]
+
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -39,8 +48,3 @@
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/adamsford_working/
 [linkedin]: https://linkedin.com/in/adam-spach-ford
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- <b>  [Name of YouTube video A](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- <b>  [Name of YouTube video B](https://www.youtube.com/watch?v=a83ASGn_V_s)
