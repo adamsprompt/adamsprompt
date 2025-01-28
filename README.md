@@ -2,7 +2,7 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-- <b>  Build a Real-Time Intrusion Detection System (IDS) with Python and Open Source Libraries - Credit: https://github.com/jatin009v  </b>
+- <b>  Build a Real-Time Intrusion Detection System (IDS) - Utilize Python and Open Source Libraries - Credit: https://github.com/jatin009v  </b>
   - [ 2nd Name of Project A such as - Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>  Name of Project B  </b>
   - [ 2nd Name of Project B such as - Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
