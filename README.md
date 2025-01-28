@@ -77,17 +77,11 @@
 
 <h2> Connect with me:</h2>
 
-- [Instagram]
-[<img align="left" width="22px" src="www.instagram.com/adamsford_working/" />][Instagram]
-- [LinkedIn]
-[<img align="left" width="22px" src="www.linkedin.com/in/adam-spach-ford" />][LinkedIn]
-
-
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[instagram]: https://www.instagram.com/adamsford_working/
-[linkedin]: https://linkedin.com/in/adam-spach-ford
+<a href="https://www.instagram.com/adamsford_working/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/adam-spach-ford/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+</p>
 
 <h2> Popular YouTube Videos</h2>
 
