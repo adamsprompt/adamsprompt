@@ -9,23 +9,23 @@
 <h2> Governance, Risk, and Compliance (GRC) Projects:</h2>
 
 - <b>  Name of Project A  </b>
-  - [ 2nd Name of Project A such as - Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ 2nd Name of Project A such as - Praciting DS & Algos in Python](insert web address)
 - <b>  Name of Project B  </b>
-  - [ 2nd Name of Project B such as - Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [ 2nd Name of Project B such as - Image Analysis Middleware](insert web address)
 
 <h2> Prompt Engineer Projects:</h2>
 
 - <b>  Name of Project A  </b>
-  - [ 2nd Name of Project A such as - Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ 2nd Name of Project A such as - Praciting DS & Algos in Python](insert web address)
 - <b>  Name of Project B  </b>
-  - [ 2nd Name of Project B such as - Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [ 2nd Name of Project B such as - Image Analysis Middleware](insert web address)
 
 <h2> AI Agentry Projects:</h2>
 
 - <b>  Name of Project A  </b>
-  - [ 2nd Name of Project A such as - Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ 2nd Name of Project A such as - Praciting DS & Algos in Python](insert web address)
 - <b>  Name of Project B  </b>
-  - [ 2nd Name of Project B such as - Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [ 2nd Name of Project B such as - Image Analysis Middleware](insert web address)
 
 <h2> Certifications:</h2>
 
