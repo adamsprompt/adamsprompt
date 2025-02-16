@@ -22,8 +22,8 @@
 
 <h2> AI Agentry Projects:</h2>
 
-- <b>  Name of Project A  </b>
-  - [ 2nd Name of Project A such as - Praciting DS & Algos in Python](insert web address)
+- <b>  Smart TV Commercial Mute  </b>
+  - [ Automation for muting commercials during regularly-scheduled television programming]([insert web address](https://github.com/adamsprompt/Smart-TV-Commercial-Mute))
 - <b>  Name of Project B  </b>
   - [ 2nd Name of Project B such as - Image Analysis Middleware](insert web address)
 
