@@ -24,8 +24,10 @@
 
 - <b>  Smart TV Commercial Mute  </b>
   - [ Automation for muting commercials during regularly-scheduled television programming](https://github.com/adamsprompt/Smart-TV-Commercial-Mute)
-- <b>  Name of Project B  </b>
-  - [ 2nd Name of Project B such as - Image Analysis Middleware](insert web address)
+- <b>  Automated Faceless YouTube Shorts Scheduled Uploads  </b>
+  - [ Create a following on a popular subject, then monetize it](insert web address)
+- <b>  Automated News Protest Scraper  </b>
+  - [ Scrape current news stories about protests, summarize, insert into workflow for Automated Faceless YouTube Shorts Scheduled Uploads](insert web address)
 
 <h2> Certifications:</h2>
 
