@@ -25,7 +25,7 @@
 - <b>  Smart TV Commercial Mute  </b>
   - [ Automation for muting commercials during regularly-scheduled television programming](https://github.com/adamsprompt/Smart-TV-Commercial-Mute)
 - <b>  Automated Faceless YouTube Shorts Scheduled Uploads  </b>
-  - [ Create a following on a popular subject, then monetize it]([insert web address](https://github.com/adamsprompt/Create-and-Upload-YT-Videos-Automation))
+  - [ Create a following on a popular subject, then monetize it](https://github.com/adamsprompt/Create-and-Upload-YT-Videos-Automation)
 - <b>  Automated News Protest Scraper  </b>
   - [ Scrape current news stories about protests, summarize, insert into workflow for Automated Faceless YouTube Shorts Scheduled Uploads](insert web address)
 
