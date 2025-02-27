@@ -27,7 +27,7 @@
 - <b>  Automated Faceless YouTube Shorts Scheduled Uploads  </b>
   - [ Create a following on a popular subject, then monetize it](https://github.com/adamsprompt/Create-and-Upload-YT-Videos-Automation)
 - <b>  Automated News Protest Scraper  </b>
-  - [ Scrape current news stories about protests, summarize, insert into workflow for Automated Faceless YouTube Shorts Scheduled Uploads](insert web address)
+  - [ Scrape current news stories about protests, summarize, insert into workflow for Automated Faceless YouTube Shorts Scheduled Uploads](https://github.com/adamsprompt/Automated-News-Protest-Scraper)
 
 <h2> Certifications:</h2>
 
