@@ -32,7 +32,7 @@ I am currently seeking **AI Consultant and Implementation Specialist** opportuni
 If your organization is looking for a techno-functional leader to bridge the gap between technical AI capabilities and measurable business ROI, I'd love to connect.
 
 * 💼 [Connect on LinkedIn](https://www.linkedin.com/in/adam-spach-ford)
-* 📄 [View My Resume]([https://link-to-your-resume.com](https://drive.google.com/file/d/1oxQRwANRwr7cLiYpNakqw02BcQgz9HKZ/view?usp=sharing))
+* 📄 [View My Resume](https://link-to-your-resume.com](https://drive.google.com/file/d/1oxQRwANRwr7cLiYpNakqw02BcQgz9HKZ/view?usp=sharing))
 * 📧 [Reach out via Email](mailto:adamsprompt@gmail.com)
 
 ---
