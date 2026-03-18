@@ -1,4 +1,5 @@
 <img src="header.png" width="100%" alt="Alloy AI Studio Banner">
+
 # 🛰️ Adam Spach-Ford | CAIC
 **Mediating the friction between technical AI capabilities and business ROI.**
 
