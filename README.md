@@ -61,12 +61,7 @@ If your organization is looking for a techno-functional leader to bridge the gap
 
 ---
 
-### 📡 Active Signals & Insights
-*Fetching latest strategic insights...*
----
-
-### 🏆 Verified Competencies
-*Synchronizing Credly certifications...*
+</div>
 <div align="center">
   <br>
   <a href="mailto:adamsprompt@gmail.com">
